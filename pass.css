@@ -15,6 +15,7 @@ body {
   margin: 12% auto;
   width: 90%;
   max-width: 700px;
+  overflow: hidden;
 }
 
 .container h1 {
@@ -48,11 +49,11 @@ body {
   outline: 0;
   font-size: 24px;
   flex: 1;
-  margin-right: 15px;
+  margin-right: 10px;
 }
 
 .display img {
-  width: 30px;
+  width: 25px;
   cursor: pointer;
   transition: opacity 0.3s ease;
 }
